@@ -11,9 +11,7 @@ This Project is a Simple ReactJS Project which demonstrates the following
 
 The project Template can be used to build bigger projects
 
-## Live Application URL
 
-### https://aditya-sridhar.github.io/simple-reactjs-app
 This URL has the application deployed in
 
 ## Prerequisites
@@ -67,11 +65,3 @@ The Application Runs on **localhost:3000**
 
 The application has just one url /customerlist which ties to *Customers* Component
 
-## Resources
-
-**create-react-app** : The following link has all the commands that can be used with create-react-app
-https://github.com/facebook/create-react-app
-
-**ReactJS** : Refer to https://reactjs.org/ to understand the concepts of ReactJS
-
-**React Bootstrap** : Refer to https://react-bootstrap.github.io/getting-started/introduction/ to understand how to use React Bootstrap
